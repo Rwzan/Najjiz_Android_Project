@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Najjiz</string>
+    <string name="welcome_title">Welcome to Najjiz!</string>
+    <string name="name_hint">Enter your name…</string>
+    <string name="start_managing">START MANAGING</string>
+    <string name="my_tasks_title">Najjiz</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="task_title_label">Task Title:</string>
+    <string name="task_title_hint">Enter task title…</string>
+    <string name="priority_label">Priority:</string>
+    <string name="save_task">SAVE TASK</string>
+    <string name="empty_tasks">No tasks yet. Tap + to add your first task.</string>
+    <string name="delete_confirm_title">Delete Task</string>
+    <string name="delete_confirm_message">Are you sure you want to delete this task? This action cannot be undone.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete">Delete</string>
+</resources>

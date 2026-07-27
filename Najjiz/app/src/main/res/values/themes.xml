@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Najjiz" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/najjiz_green</item>
+        <item name="colorPrimaryDark">@color/najjiz_green_dark</item>
+        <item name="colorAccent">@color/najjiz_green</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>

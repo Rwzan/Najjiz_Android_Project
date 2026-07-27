@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="najjiz_green">#1B7A4B</color>
+    <color name="najjiz_green_dark">#145C39</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#1A1A1A</color>
+    <color name="grey_light">#F2F2F2</color>
+    <color name="grey_text">#666666</color>
+    <color name="priority_high">#D9534F</color>
+    <color name="priority_medium">#E8A33D</color>
+    <color name="priority_low">#4A9B5E</color>
+    <color name="delete_red">#D9534F</color>
+</resources>
