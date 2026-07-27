@@ -1,7 +1,6 @@
 # Najjiz — Task & To-Do Manager (CS475 Mobile Computing, Phase 2)
 
-Android Studio project implementing exactly what was planned in the Phase 1 report:
-no extra activities, no extra database tables, no extra components.
+
 
 ## How to open and run
 1. Open Android Studio.
