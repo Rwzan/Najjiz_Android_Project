@@ -1,7 +1,5 @@
 # Najjiz — Task & To-Do Manager (CS475 Mobile Computing, Phase 2)
 
-Android Studio project implementing exactly what was planned in the Phase 1 report:
-no extra activities, no extra database tables, no extra components.
 
 ## How to open and run
 1. Open Android Studio.
@@ -9,7 +7,7 @@ no extra activities, no extra database tables, no extra components.
 3. Let Gradle sync (requires internet access for the first sync to download dependencies).
 4. Run on an emulator or device (minSdk 21 / Android 5.0+).
 
-## What's implemented (matches Phase 1 plan exactly)
+## What's implemented 
 
 **Activities (3):**
 - `RegisterActivity` — launcher/welcome screen, name input, "START MANAGING" button.
