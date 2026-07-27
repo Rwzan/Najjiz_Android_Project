@@ -8,7 +8,7 @@
 3. Let Gradle sync (requires internet access for the first sync to download dependencies).
 4. Run on an emulator or device (minSdk 21 / Android 5.0+).
 
-## What's implemented (matches Phase 1 plan exactly)
+## What's implemented 
 
 **Activities (3):**
 - `RegisterActivity` — launcher/welcome screen, name input, "START MANAGING" button.
