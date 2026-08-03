@@ -85,56 +85,6 @@ Whether you're planning your day, tracking projects, or organizing personal task
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-Before you begin, ensure you have the following installed:
-
-- **Android Studio** (Latest Stable Version)
-  - Download: [developer.android.com/studio](https://developer.android.com/studio)
-- **Java Development Kit (JDK)** 11 or higher
-- **Android SDK** with support for API 21 (Android 5.0) or higher
-- **Git** (for cloning the repository)
-
-### Installation & Setup
-
-#### **Step 1: Clone the Repository**
-```bash
-git clone https://github.com/Rwzan/Najjiz_Android_Project.git
-cd Najjiz
-```
-
-#### **Step 2: Open in Android Studio**
-1. Open **Android Studio**
-2. Click **File** → **Open**
-3. Navigate to and select the `Najjiz/` folder (the project root)
-4. Click **Open**
-
-#### **Step 3: Sync Gradle**
-- Android Studio will automatically prompt you to sync Gradle files
-- Wait for the sync to complete (requires internet connection for initial sync to download dependencies)
-- If prompted, accept any SDK updates
-
-#### **Step 4: Configure Emulator or Device**
-
-**Using an Emulator:**
-1. Go to **Tools** → **AVD Manager**
-2. Click **Create Virtual Device**
-3. Select a device (e.g., Pixel 6) and API level 21 or higher
-4. Finish setup and start the emulator
-
-**Using a Physical Device:**
-1. Enable **Developer Mode**: Settings → About → Build Number (tap 7 times)
-2. Enable **USB Debugging**: Settings → Developer Options → USB Debugging
-3. Connect device via USB cable
-
-#### **Step 5: Run the App**
-1. Select your target device/emulator from the top toolbar
-2. Click the **Run** button (▶️ green play icon)
-3. Wait for the build to complete and the app to launch
-
----
 
 ## 📖 How to Use
 
@@ -420,41 +370,6 @@ We welcome contributions! If you'd like to improve Najjiz, follow these steps:
 
 ---
 
-## ❓ Troubleshooting
-
-### **Issue: Gradle Sync Fails**
-- **Solution**: 
-  - Check internet connection
-  - Click **File** → **Sync Now**
-  - Clear cache: **File** → **Invalidate Caches** → **Invalidate & Restart**
-
-### **Issue: App Crashes on Launch**
-- **Solution**:
-  - Check Android Studio Logcat for error messages
-  - Ensure minSdk is set to 21 or higher
-  - Verify all activities are declared in `AndroidManifest.xml`
-
-### **Issue: RecyclerView Shows No Tasks**
-- **Solution**:
-  - Verify database permissions in `AndroidManifest.xml`
-  - Check database file exists
-  - Ensure adapter is properly initialized
-
-### **Issue: Emulator Won't Start**
-- **Solution**:
-  - Update Android Studio and SDK
-  - Delete and recreate the AVD
-  - Ensure CPU virtualization is enabled in BIOS
-  - Try a different API level
-
-### **Issue: Database File Not Found**
-- **Solution**:
-  - Database is created automatically on first run
-  - Check database path: `/data/data/com.example.najjiz/databases/`
-  - Use Android Studio's Device File Explorer to verify
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the LICENSE file for details.
@@ -465,18 +380,10 @@ You are free to use, modify, and distribute this project as long as you include 
 
 ## 👤 Author
 
-**Developed by**: [Your Name / Rwzan]  
+**Developed by**: Rwzan, Sadeem, Ghala
 **Course**: CS475 — Mobile Computing  
-**Institution**: [Your University]  
+**Institution**: Saudi E-University  
 **Phase**: 2  
-
----
-
-## 📞 Contact & Support
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/Rwzan/Najjiz_Android_Project/issues)
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
 
 ---
 
