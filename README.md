@@ -380,7 +380,7 @@ You are free to use, modify, and distribute this project as long as you include 
 
 ## 👤 Author
 
-**Developed by**: Rwzan, Sadeem, Ghala
+**Developed by**: Rwzan, Sadeem, Ghala  
 **Course**: CS475 — Mobile Computing  
 **Institution**: Saudi E-University  
 **Phase**: 2  
