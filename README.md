@@ -48,36 +48,31 @@ Whether you're planning your day, tracking projects, or organizing personal task
 
 ## 📸 Screenshots
 
-> *Replace the placeholder images below with your actual app screenshots*
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <strong>Welcome Screen</strong><br>
-        <img src="[INSERT_SCREENSHOT_1]" width="250" alt="Welcome/Register Screen">
+        <img src="https://github.com/user-attachments/assets/dfee48d8-fc9e-4876-ad73-562d33b60728" width="250" alt="Welcome/Register Screen">
       </td>
       <td align="center">
         <strong>Task Dashboard</strong><br>
-        <img src="[INSERT_SCREENSHOT_2]" width="250" alt="Task List View">
+        <img src="https://github.com/user-attachments/assets/87b313b4-598e-431c-b010-454dfe59dce1" width="250" alt="Task List View">
       </td>
       <td align="center">
         <strong>Add Task Form</strong><br>
-        <img src="[INSERT_SCREENSHOT_3]" width="250" alt="Add New Task">
+        <img src="https://github.com/user-attachments/assets/c44c4d3b-938d-44d7-8370-128f7be033d3" width="250" alt="Add New Task">
       </td>
     </tr>
     <tr>
       <td align="center">
         <strong>Delete Confirmation</strong><br>
-        <img src="[INSERT_SCREENSHOT_4]" width="250" alt="Delete Dialog">
-      </td>
-      <td align="center">
-        <strong>Task Details</strong><br>
-        <img src="[INSERT_SCREENSHOT_5]" width="250" alt="Task Card Detail">
+        <img src="https://github.com/user-attachments/assets/9fa64b62-875c-42a7-92e0-dc60541553b3" width="250" alt="Delete Dialog">
       </td>
       <td align="center">
         <strong>Priority Levels</strong><br>
-        <img src="[INSERT_SCREENSHOT_6]" width="250" alt="Priority Levels">
+        <img src="https://github.com/user-attachments/assets/3ab085e9-52c8-428a-8375-8493c9ab4bcb" width="250" alt="Priority Levels">
       </td>
     </tr>
   </table>
