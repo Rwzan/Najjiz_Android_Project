@@ -266,23 +266,6 @@ This project fulfills the following CS475 Mobile Computing Phase 2 requirements:
 
 ---
 
-## 🚀 Future Enhancements
-
-Potential features for Phase 3 and beyond:
-
-- 📅 **Due Dates** — Add deadline functionality with date picker
-- 🔔 **Notifications** — Reminders for upcoming/overdue tasks
-- ✏️ **Edit Tasks** — Modify existing task details
-- 🏷️ **Categories/Tags** — Organize tasks by category
-- 🎨 **Themes** — Dark mode and custom color schemes
-- ☁️ **Cloud Sync** — Firebase integration for cross-device sync
-- 🔍 **Search & Filter** — Find tasks by keyword or priority
-- ✅ **Completion Tracking** — Mark tasks as done
-- 📊 **Statistics** — View productivity insights and task analytics
-- 🌐 **Multi-language Support** — Localization (Arabic, English, etc.)
-
----
-
 ## 👤 Author
 
 **Developed by**: Rwzan, Sadeem, Ghala  
