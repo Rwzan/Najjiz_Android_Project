@@ -13,7 +13,7 @@
 
 *CS475 Mobile Computing — Phase 2*
 
-[Features](#-features) • [Screenshots](#-screenshots) • [Getting Started](#-getting-started) • [Architecture](#-architecture) • [Contributing](#-contributing)
+[Features](#-features) • [Screenshots](#-screenshots) • [Getting Started](#-getting-started).
 
 </div>
 
@@ -251,41 +251,6 @@ Najjiz/
 
 ---
 
-## 🔧 Development
-
-### Building from Source
-
-#### **Build APK for Distribution**
-```bash
-# Navigate to project directory
-cd Najjiz
-
-# Build release APK
-./gradlew assembleRelease
-
-# APK location: app/build/outputs/apk/release/
-```
-
-#### **Build and Run Debug Version**
-```bash
-./gradlew clean build
-./gradlew installDebug
-```
-
-#### **Run Tests**
-```bash
-./gradlew test              # Unit tests
-./gradlew connectedAndroidTest  # Instrumentation tests
-```
-
-### Code Style & Conventions
-
-- **Java Naming**: camelCase for variables/methods, PascalCase for classes
-- **Resource IDs**: snake_case (e.g., `activity_register`, `btn_save_task`)
-- **Comments**: Clear documentation for complex logic
-- **Android Best Practices**: Following official Android development guidelines
-
----
 
 ## 🎯 Phase 2 Requirements
 
@@ -315,61 +280,6 @@ Potential features for Phase 3 and beyond:
 - ✅ **Completion Tracking** — Mark tasks as done
 - 📊 **Statistics** — View productivity insights and task analytics
 - 🌐 **Multi-language Support** — Localization (Arabic, English, etc.)
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! If you'd like to improve Najjiz, follow these steps:
-
-### How to Contribute
-
-1. **Fork the Repository**
-   ```bash
-   git clone https://github.com/Rwzan/Najjiz_Android_Project.git
-   cd Najjiz
-   ```
-
-2. **Create a Feature Branch**
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-3. **Make Your Changes**
-   - Write clean, well-commented code
-   - Follow the existing code style
-   - Test thoroughly
-
-4. **Commit Your Changes**
-   ```bash
-   git add .
-   git commit -m "Add feature: brief description of changes"
-   ```
-
-5. **Push to Your Fork**
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-6. **Submit a Pull Request**
-   - Describe your changes clearly
-   - Reference any related issues
-
-### Code Guidelines
-
-- Use meaningful variable and function names
-- Add comments for complex logic
-- Avoid hardcoding strings (use `strings.xml`)
-- Test on multiple API levels
-- Follow Android best practices
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the LICENSE file for details.
-
-You are free to use, modify, and distribute this project as long as you include the original copyright notice.
 
 ---
 
